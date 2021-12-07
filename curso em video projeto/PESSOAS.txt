@@ -1,0 +1,8 @@
+lucas;19
+mateus;20
+isabella;11
+amanda;20
+matheus;19
+amanda;20
+keli;45
+victor;20
